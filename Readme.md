@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8CE4F7&width=435&lines=%2CHola+soy+Liss%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8CE4F7&width=435&lines=Hola+soy+Liss%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 <h3 align="center">Frontend Developer :woman_technologist:</h3>
 
 <img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
