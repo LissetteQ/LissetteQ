@@ -13,6 +13,7 @@ Soy una mujer que le encantan los desafíos y los cambios, estuve años desempe�
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="Logotipo de React" title="React" height="30" /> 
 </div>
 <!
 
