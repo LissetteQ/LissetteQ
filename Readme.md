@@ -1,3 +1,4 @@
+![foto git](https://user-images.githubusercontent.com/108200076/198724079-438f6af8-f7b2-4775-af1d-8feaadfd737e.jpg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8CE4F7&width=435&lines=Hola+soy+Liss%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 #### Front End developer and UX designer👩🏻‍💻
 Te cuento un poco sobre mi.
